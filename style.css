@@ -16,3 +16,8 @@ div.sidebar img{
     width: auto;
     height: 20px;
 }
+
+div.trendingAbility img{
+    width: 50px;
+    height: auto;
+}
