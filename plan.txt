@@ -102,9 +102,16 @@ Heading formatting:
 //Format the upper half of the header as a grid//
 //Format the upper left portion of the header as a grid//
 //Format the upper right portion of the header as a grid//
-//Format the lower header as a grid
-//Format the lower left portion as a grid
-//Format the lower right portion as as grid
+//Format the lower header as a grid//
+//Format the lower left portion as a grid//
+//Format the lower right portion as as grid//
+
+
+Sidebar formatting:
+//Format the sidebar as a flexbox//
+//Format the logo section as a flexbox//
+//Format the account section as as flexbox//
+//Format the utilities section as a flexbox//
 
 Main Content formatting:
 //Format the main content as a grid
