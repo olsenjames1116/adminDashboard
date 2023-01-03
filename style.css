@@ -13,7 +13,11 @@ div.header{
 }
 
 div.upperHeader{
+    display: flex;
+}
 
+form{
+    flex-grow: 1;
 }
 
 img.userImage{

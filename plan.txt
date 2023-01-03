@@ -95,7 +95,7 @@ Footer:
 //Display a footer with author credit and image credit as paragraph//
 
 Main formatting:
-//Format the main layout as a grid
+//Format the main layout as a grid//
 
 Heading formatting: 
 //Format the header as a grid
