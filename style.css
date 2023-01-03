@@ -79,6 +79,15 @@ div.navBar{
 
 div.sidebar{
     grid-area: 1 / 1 / 3 / 2;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+div.sideBarNav{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
 }
 
 div.sidebar img{
