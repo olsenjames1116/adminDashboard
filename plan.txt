@@ -1,0 +1,123 @@
+Understanding the problem:
+    The goal here is to create an admin dashboard that includes a few major sections.
+    Once finished, it will appear similar to the "Holy Grail" layout.
+
+Plan
+-------
+Does your program have a user interface? What will it look like? What functionality will the interface have?
+    Yes. The user interface will be a dashboard with a header, sidebar, main content section and footer.
+    The header will have a search bar, alert icon, user image, user name, welcome message, and navbar.
+    The sidebar will have a dashboard logo and navigation to several pages within the website. 
+    The main content section will have a few cards with projects the user has worked on, an announcements section and a section with trending users.
+    The footer will have credits to the author as well as credit to the artists behind the images.
+    The interface will have a search bar the user can type in and submit.
+What inputs will your program have? Will the user enter data or will you get input from somewhere else?
+    The only input the program has is in the form of the search bar which will take in data from the user.
+What's the desired input?
+    There desired input is text from the user.
+Given your inputs, what are the steps necessary to return the desired output?
+    The input will not be sent anywhere on the backend so there is no need to do anything with the input.
+
+Steps:
+-------
+Main layout:
+//Create a div for header
+//Create a div for sidebar
+//Create a div for main content
+//Create a div for footer
+
+Header:
+//Create a div for upper portion of header
+//Create a div for the search bar input and label
+//Display search icon/label
+//Display search bar
+//Allow the user to submit input using enter key
+//Create a div for alert icon, user image and user name
+//Display alert icon
+//Display user image
+//Display user name
+//Create a div for the lower portion of the header
+//Create a div for the user image and welcome message
+//Display user image
+//Display welcome message with smaller welcome text and larger user name text
+//Create a div for the navbar (new, upload, share)
+//Display new button
+//Display upload button
+//Display share button
+
+Sidebar:
+//Create a div for logo
+//Display logo
+//Display company text
+//Create a div for account pages
+//Display home image and text
+//Display profile image and text
+//Display messages image and text
+//Display history image and text
+//Display tasks image and text
+//Display communities image and text
+//Create a div for utilities
+//Display settings image and text
+//Display support image and text
+//Display privacy image and text
+
+Main Content:
+//Create a div for projects
+//Create a div for announcements
+//Create div for trending
+
+//Display "Your Projects text" as a heading
+//Create a div for cards in projects
+//Create 6 divs for cards
+//Display larger project title as a heading in each card
+//Display project text as a paragraph in each card with dummy text
+//Display images in a div for each card
+//Display favorite image
+//Display watch image
+//Display share image
+
+//Display "Announcements" as a heading
+//Create a div for the announcements
+//Create 3 divs for announcements
+//Display "Site Maintenance" as a heading
+//Display site maintenance paragraph with dummy text
+//Display "Community Share Day" as a heading
+//Display community share day paragraph with dummy text
+//Display "Updated Privacy Policy" as a heading
+//Display updated privacy policy as a paragraph with dummy text
+
+//Create 4 separate divs for trending
+//Display a user image for each div
+//Display a user name for each div
+//Display a full name for each div
+
+Footer:
+//Display a footer with author credit and image credit as paragraph
+
+Main formatting:
+//Format the main layout as a grid
+
+Heading formatting: 
+//Format the header as a grid
+//Format the upper half of the header as a grid
+//Format the upper left portion of the header as a grid
+//Format the upper right portion of the header as a grid
+//Format the lower header as a grid
+//Format the lower left portion as a grid
+//Format the lower right portion as as grid
+
+Main Content formatting:
+//Format the main content as a grid
+//Format the projects cards a as grid
+//Format the card title, content and icons as a flexbox
+//Format the announcements title and content as a flexbox
+//Format the annoucement heading and paragraph as a flexbox
+//Format the trending title and content as a flexbox
+//Format the user images, user name, and full name as a flexbox
+
+Footer formatting:
+//Format the footer text as a flexbox
+
+Color and text:
+//Download and use a tailwind theme to color the pages
+//Download and utilize a custom text
