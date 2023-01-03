@@ -29,13 +29,13 @@ Main layout:
 Header:
 //Create a div for upper portion of header//
 //Create a div for the search bar input and label//
-//Display search icon/label
-//Display search bar
-//Allow the user to submit input using enter key
-//Create a div for alert icon, user image and user name
-//Display alert icon
-//Display user image
-//Display user name
+//Display search icon/label//
+//Display search bar//
+//Allow the user to submit input using enter key//
+//Create a div for alert icon, user image and user name//
+//Display alert icon//
+//Display user image//
+//Display user name//
 //Create a div for the lower portion of the header
 //Create a div for the user image and welcome message
 //Display user image
