@@ -21,14 +21,14 @@ Given your inputs, what are the steps necessary to return the desired output?
 Steps:
 -------
 Main layout:
-//Create a div for header
-//Create a div for sidebar
-//Create a div for main content
-//Create a div for footer
+//Create a div for header//
+//Create a div for sidebar//
+//Create a div for main content//
+//Create a div for footer//
 
 Header:
-//Create a div for upper portion of header
-//Create a div for the search bar input and label
+//Create a div for upper portion of header//
+//Create a div for the search bar input and label//
 //Display search icon/label
 //Display search bar
 //Allow the user to submit input using enter key
@@ -111,7 +111,7 @@ Main Content formatting:
 //Format the projects cards a as grid
 //Format the card title, content and icons as a flexbox
 //Format the announcements title and content as a flexbox
-//Format the annoucement heading and paragraph as a flexbox
+//Format the announcement heading and paragraph as a flexbox
 //Format the trending title and content as a flexbox
 //Format the user images, user name, and full name as a flexbox
 
