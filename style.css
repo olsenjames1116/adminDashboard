@@ -49,7 +49,8 @@ div.userInfo>img:first-child{
 
 img.userImage{
     width: 50px;
-    height: auto;
+    height: 50px;
+    border-radius: 30px;
 }
 
 div.lowerHeader{
@@ -91,6 +92,13 @@ div.sidebar{
     display: flex;
     flex-direction: column;
     gap: 4rem;
+    padding: 1rem;
+}
+
+div.account{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
 }
 
 div.sideBarNav{
@@ -103,6 +111,12 @@ div.sidebar img, form>label>img,
 div.userInfo>img:first-child{
     width: auto;
     height: 20px;
+}
+
+div.utilities{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
 }
 
 div.mainContent{
