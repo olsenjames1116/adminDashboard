@@ -40,15 +40,15 @@ Header:
 //Create a div for the user image and welcome message//
 //Display user image//
 //Display welcome message with smaller welcome text and larger user name text//
-//Create a div for the navbar (new, upload, share)
-//Display new button
-//Display upload button
-//Display share button
+//Create a div for the navbar (new, upload, share)//
+//Display new button//
+//Display upload button//
+//Display share button//
 
 Sidebar:
-//Create a div for logo
-//Display logo
-//Display company text
+//Create a div for logo//
+//Display logo//
+//Display company text//
 //Create a div for account pages
 //Display home image and text
 //Display profile image and text
