@@ -7,7 +7,7 @@ img.userImage{
     height: auto;
 }
 
-div.logo>img{
+div.sidebar img{
+    width: auto;
     height: 50px;
-    width: auto; 
 }
