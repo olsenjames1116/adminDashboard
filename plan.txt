@@ -59,7 +59,7 @@ Sidebar:
 //Create a div for utilities//
 //Display settings image and text//
 //Display support image and text//
-//Display privacy image and text
+//Display privacy image and text//
 
 Main Content:
 //Create a div for projects
