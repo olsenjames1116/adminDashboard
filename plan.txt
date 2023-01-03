@@ -92,7 +92,7 @@ Main Content:
 //Display an ability for each div//
 
 Footer:
-//Display a footer with author credit and image credit as paragraph
+//Display a footer with author credit and image credit as paragraph//
 
 Main formatting:
 //Format the main layout as a grid
