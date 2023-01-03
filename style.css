@@ -99,9 +99,10 @@ div.sideBarNav{
     gap: 1rem;
 }
 
-div.sidebar img{
+div.sidebar img, form>label>img, 
+div.userInfo>img:first-child{
     width: auto;
-    height: 50px;
+    height: 20px;
 }
 
 div.mainContent{
