@@ -62,13 +62,13 @@ Sidebar:
 //Display privacy image and text//
 
 Main Content:
-//Create a div for projects
-//Create a div for announcements
-//Create div for trending
+//Create a div for projects//
+//Create a div for announcements//
+//Create div for trending//
 
-//Display "Your Projects text" as a heading
-//Create a div for cards in projects
-//Create 6 divs for cards
+//Display "Your Projects text" as a heading//
+//Create a div for cards in projects//
+//Create 6 divs for cards//
 //Display larger project title as a heading in each card
 //Display project text as a paragraph in each card with dummy text
 //Display images in a div for each card
