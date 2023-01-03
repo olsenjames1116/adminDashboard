@@ -86,7 +86,7 @@ Main Content:
 //Display "Updated Privacy Policy" as a heading//
 //Display updated privacy policy as a paragraph with dummy text//
 
-//Create 4 separate divs for trending
+//Create 4 separate divs for trending//
 //Display a user image for each div
 //Display a user name for each div
 //Display a full name for each div
