@@ -116,9 +116,9 @@ Sidebar formatting:
 Main Content formatting:
 //Format the main content as a grid//
 //Format the projects cards a as grid//
-//Format the card title, content and icons as a flexbox
-//Format the announcements title and content as a flexbox
-//Format the announcement heading and paragraph as a flexbox
+//Format the card title, content and icons as a flexbox//
+//Format the announcements title and content as a flexbox//
+//Format the announcement heading and paragraph as a flexbox//
 //Format the trending title and content as a flexbox
 //Format the user images, user name, and full name as a flexbox
 

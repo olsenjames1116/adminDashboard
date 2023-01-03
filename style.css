@@ -122,7 +122,8 @@ div.card{
 }
 
 div.card>h3, div.card>p, div.announcementCard h4, 
-div.announcementCard p{
+div.announcementCard p, div.trendingAbility h5, 
+div.trendingAbility p{
     margin: 0;
 }
 
@@ -143,7 +144,7 @@ div.announcements{
     padding-left: 0.25rem;
 }
 
-div.announcementCard{
+div.announcementCard, div.trendingCard{
     display: flex;
     flex-direction: column;
     padding: 1rem;
@@ -152,6 +153,20 @@ div.announcementCard{
 
 div.trending{
     grid-area: 2 / 2 / 3 / 3;
+    padding: 0.5rem;
+    padding-left: 0.25rem;
+}
+
+div.trendingAbility{
+    display: flex;
+}
+
+div.trendingAbility>div{
+    flex-grow: 1;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 div.footer{
