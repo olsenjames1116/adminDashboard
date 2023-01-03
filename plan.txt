@@ -37,9 +37,9 @@ Header:
 //Display user image//
 //Display user name//
 //Create a div for the lower portion of the header//
-//Create a div for the user image and welcome message
-//Display user image
-//Display welcome message with smaller welcome text and larger user name text
+//Create a div for the user image and welcome message//
+//Display user image//
+//Display welcome message with smaller welcome text and larger user name text//
 //Create a div for the navbar (new, upload, share)
 //Display new button
 //Display upload button
