@@ -58,7 +58,7 @@ Sidebar:
 //Display communities image and text//
 //Create a div for utilities//
 //Display settings image and text//
-//Display support image and text
+//Display support image and text//
 //Display privacy image and text
 
 Main Content:
