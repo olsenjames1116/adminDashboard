@@ -6,3 +6,8 @@ img.userImage{
     width: 50px;
     height: auto;
 }
+
+div.logo>img{
+    height: 50px;
+    width: auto; 
+}
