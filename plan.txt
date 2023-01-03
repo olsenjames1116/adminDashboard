@@ -51,13 +51,13 @@ Sidebar:
 //Display company text//
 //Create a div for account pages//
 //Display home image and text//
-//Display profile image and text
-//Display messages image and text
-//Display history image and text
-//Display tasks image and text
-//Display communities image and text
-//Create a div for utilities
-//Display settings image and text
+//Display profile image and text//
+//Display messages image and text//
+//Display history image and text//
+//Display tasks image and text//
+//Display communities image and text//
+//Create a div for utilities//
+//Display settings image and text//
 //Display support image and text
 //Display privacy image and text
 
