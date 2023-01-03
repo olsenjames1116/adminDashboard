@@ -69,22 +69,22 @@ Main Content:
 //Display "Your Projects text" as a heading//
 //Create a div for cards in projects//
 //Create 6 divs for cards//
-//Display larger project title as a heading in each card
-//Display project text as a paragraph in each card with dummy text
-//Display images in a div for each card
-//Display favorite image
-//Display watch image
-//Display share image
+//Display larger project title as a heading in each card//
+//Display project text as a paragraph in each card with dummy text//
+//Display images in a div for each card//
+//Display favorite image//
+//Display watch image//
+//Display share image//
 
-//Display "Announcements" as a heading
-//Create a div for the announcements
-//Create 3 divs for announcements
-//Display "Site Maintenance" as a heading
-//Display site maintenance paragraph with dummy text
-//Display "Community Share Day" as a heading
-//Display community share day paragraph with dummy text
-//Display "Updated Privacy Policy" as a heading
-//Display updated privacy policy as a paragraph with dummy text
+//Display "Announcements" as a heading//
+//Create a div for the announcements//
+//Create 3 divs for announcements//
+//Display "Site Maintenance" as a heading//
+//Display site maintenance paragraph with dummy text//
+//Display "Community Share Day" as a heading//
+//Display community share day paragraph with dummy text//
+//Display "Updated Privacy Policy" as a heading//
+//Display updated privacy policy as a paragraph with dummy text//
 
 //Create 4 separate divs for trending
 //Display a user image for each div
