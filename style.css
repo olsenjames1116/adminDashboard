@@ -71,6 +71,10 @@ div.welcome>h2{
 
 div.navBar{
     flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+    padding-right: 1rem;
 }
 
 div.sidebar{
