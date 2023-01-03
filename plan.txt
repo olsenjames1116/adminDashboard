@@ -98,10 +98,10 @@ Main formatting:
 //Format the main layout as a grid//
 
 Heading formatting: 
-//Format the header as a grid
-//Format the upper half of the header as a grid
-//Format the upper left portion of the header as a grid
-//Format the upper right portion of the header as a grid
+//Format the header as a grid//
+//Format the upper half of the header as a grid//
+//Format the upper left portion of the header as a grid//
+//Format the upper right portion of the header as a grid//
 //Format the lower header as a grid
 //Format the lower left portion as a grid
 //Format the lower right portion as as grid

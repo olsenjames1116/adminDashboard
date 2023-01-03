@@ -21,6 +21,7 @@ form{
     flex-grow: 1;
     display: flex;
     align-items: center;
+    padding-left: 1rem;
 }
 
 div.userInfo{
@@ -41,7 +42,35 @@ img.userImage{
 }
 
 div.lowerHeader{
+    display: flex;
+    align-items: center;
+}
 
+div.welcome{
+    flex-grow: 1;
+    display: grid;
+    align-items: center;
+    justify-content: start;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+div.welcome>img{
+    grid-area: 1 / 1 / 3 / 2;
+}
+
+div.welcome>p{
+    grid-area: 1 / 2 / 2 / 3;
+    margin: 0;
+}
+
+div.welcome>h2{
+    grid-area: 2 / 2 / 3 / 3;
+    margin: 0;
+}
+
+div.navBar{
+    flex-grow: 1;
 }
 
 div.sidebar{
