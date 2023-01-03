@@ -114,8 +114,8 @@ Sidebar formatting:
 //Format the utilities section as a flexbox//
 
 Main Content formatting:
-//Format the main content as a grid
-//Format the projects cards a as grid
+//Format the main content as a grid//
+//Format the projects cards a as grid//
 //Format the card title, content and icons as a flexbox
 //Format the announcements title and content as a flexbox
 //Format the announcement heading and paragraph as a flexbox
