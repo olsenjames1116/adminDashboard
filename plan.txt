@@ -119,11 +119,11 @@ Main Content formatting:
 //Format the card title, content and icons as a flexbox//
 //Format the announcements title and content as a flexbox//
 //Format the announcement heading and paragraph as a flexbox//
-//Format the trending title and content as a flexbox
-//Format the user images, user name, and full name as a flexbox
+//Format the trending title and content as a flexbox//
+//Format the user images, user name, and full name as a flexbox//
 
 Footer formatting:
-//Format the footer text as a flexbox
+//Format the footer text as a flexbox//
 
 Color and text:
 //Download and use a tailwind theme to color the pages
