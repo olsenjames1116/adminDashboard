@@ -6,6 +6,10 @@
     font-style: normal;
 }
 
+.filterWhite{
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(163deg) brightness(100%) contrast(103%);
+}
+
 *{
     /* outline: 0.5px solid black; */
     font-family: 'meromSans', sans-serif;
