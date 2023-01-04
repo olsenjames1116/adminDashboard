@@ -43,7 +43,9 @@ form{
 
 input[type="search"]{
     border: none;
-    width: 400px;
+    width: 300px;
+    height: 2rem;
+    padding: 1px 3px;
     border-radius: 20px;
     background-color: #bae6fd;
 }
@@ -148,7 +150,7 @@ div.utilities{
 div.mainContent{
     grid-area: 2 / 2 / 3 / 3;
     display: grid;
-    grid-template-columns: 3fr 1fr;
+    grid-template-columns: 4fr 1fr;
     background-color: #7dd3fc;
 }
 
@@ -157,7 +159,7 @@ h3{
 }
 
 div.abilities{
-    grid-area: 1 / 1 / 3 / 2;
+    grid-area: 1 / 1 / 2 / 2;
     padding: 0.5rem;
     padding-right: 0.25rem;
 }
@@ -196,8 +198,11 @@ div.cardIcons{
     height: 20px;
 }
 
-div.announcements{
-    grid-area: 1 / 2 / 2 /3;
+div.social{
+    grid-area: 1 / 2 / 2 / 3;
+}
+
+div.announcements, div.trending{
     padding: 0.5rem;
     padding-left: 0.25rem;
 }
@@ -223,15 +228,9 @@ div.siteMaintenance, div.shareDay{
     border-bottom: 1px solid gray;
 }
 
-div.trending{
-    grid-area: 2 / 2 / 3 / 3;
-    padding: 0.5rem;
-    padding-left: 0.25rem;
-}
-
 div.trendingCard{
     gap: 0.1rem;
-    font-size: 0.75rem;
+    font-size: 0.9rem;
 }
 
 div.trendingAbility{
