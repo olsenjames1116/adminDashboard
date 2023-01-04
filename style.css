@@ -7,7 +7,7 @@
 }
 
 *{
-    outline: 0.5px solid black;
+    /* outline: 0.5px solid black; */
     font-family: 'meromSans', sans-serif;
 }
 
@@ -23,6 +23,7 @@ div.header{
     display: flex;
     flex-direction: column;
     padding: 1rem;
+    background-color: #f0f9ff;
 }
 
 div.upperHeader{
@@ -88,8 +89,10 @@ div.navBar{
 }
 
 button{
-    border-radius: 10px;
+    border-radius: 20px;
     width: 5rem;
+    background-color: #0c4a6e;
+    color: white;
 }
 
 div.sidebar{
@@ -98,6 +101,8 @@ div.sidebar{
     flex-direction: column;
     gap: 4rem;
     padding: 1rem;
+    background-color: #0c4a6e;
+    color: white;
 }
 
 div.account{
@@ -128,6 +133,7 @@ div.mainContent{
     grid-area: 2 / 2 / 3 / 3;
     display: grid;
     grid-template-columns: 3fr 1fr;
+    background-color: #7dd3fc;
 }
 
 h3{
@@ -150,6 +156,7 @@ div.card{
     display: flex;
     flex-direction: column;
     padding: 1rem;
+    background-color: #f0f9ff;
 }
 
 div.card>h3, div.card>p, div.announcementCard h4, 
@@ -180,12 +187,17 @@ div.announcementCard, div.trendingCard{
     flex-direction: column;
     padding: 1rem;
     width: 200px;
+    background-color: #f0f9ff;
 }
 
 div.trending{
     grid-area: 2 / 2 / 3 / 3;
     padding: 0.5rem;
     padding-left: 0.25rem;
+}
+
+div.trendingCard{
+    gap: 0.1rem;
 }
 
 div.trendingAbility{
@@ -205,8 +217,10 @@ div.footer{
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #0ea5e9;
 }
 
 a{
     text-decoration: none;
+    color: white;
 }

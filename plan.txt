@@ -128,5 +128,5 @@ Footer formatting:
 Overall formatting:
 //Download and use a tailwind theme to color the pages
 //Round edges on user images//
-//Round edges on buttons
+//Round edges on buttons//
 //Download and utilize a custom text//
