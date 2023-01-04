@@ -175,6 +175,10 @@ div.card{
     background-color: #f0f9ff;
 }
 
+div.card p{
+    flex-grow: 1;
+}
+
 div.card>h3, div.card>p, div.announcementCard h4, 
 div.announcementCard p, div.trendingAbility h5, 
 div.trendingAbility p, div.footer p{
@@ -208,6 +212,7 @@ div.announcementCard, div.trendingCard{
 
 div.announcementCard{
     gap: 0.25rem;
+    font-size: 0.75rem;
 }
 
 div.announcementCard p{
@@ -226,6 +231,7 @@ div.trending{
 
 div.trendingCard{
     gap: 0.1rem;
+    font-size: 0.75rem;
 }
 
 div.trendingAbility{
