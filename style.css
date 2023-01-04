@@ -206,6 +206,18 @@ div.announcementCard, div.trendingCard{
     background-color: #f0f9ff;
 }
 
+div.announcementCard{
+    gap: 0.25rem;
+}
+
+div.announcementCard p{
+    margin-bottom: 0.25rem;
+}
+
+div.siteMaintenance, div.shareDay{
+    border-bottom: 1px solid gray;
+}
+
 div.trending{
     grid-area: 2 / 2 / 3 / 3;
     padding: 0.5rem;
